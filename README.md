@@ -1,4 +1,3 @@
-# Student-Record-management-System
 # 🎓 Student Record Management System (CLI-Based)
 
 ## 📌 Objective
